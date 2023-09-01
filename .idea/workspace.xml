@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dce08d28-0599-4113-9ed3-cfcba25a12f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2module-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2module.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3module-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3module.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4module-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4module-mobb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4module.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5module-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6module-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-1/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-2/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatar-col-3/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/book2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/book2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demand-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/demand-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/demand-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/demand-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/man2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-1-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-2-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-3-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-4-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-5-mob.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/module-2-5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/popup-timer-pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/popup-timer-pic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/program-module-1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/res-pic-9.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/res-pic-9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/results-5-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/results-5-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/results-5-7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/results-5-7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/results-item1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/results-item1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/75.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/78.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/83.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/85.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/tarif-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/tarif-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/services-icons/tarif-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/struc-1-mob-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/struc-1-mob-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/struc-2-mob-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/struc-2-mob-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video10.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video11.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video4.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video5.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video6.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video7.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video8.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/video9.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/welcome-box.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/welcome-box.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2TSuoT0SLHkDLYqrLZvwWVspoSh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dce08d28-0599-4113-9ed3-cfcba25a12f7" name="Default Changelist" comment="" />
+      <created>1691048977886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691048977886</updated>
+      <workItem from="1691048979356" duration="32345000" />
+      <workItem from="1691453584722" duration="653000" />
+      <workItem from="1691577337368" duration="5501000" />
+      <workItem from="1692002930851" duration="10780000" />
+      <workItem from="1692369898425" duration="5650000" />
+      <workItem from="1693206643745" duration="2253000" />
+      <workItem from="1693471814553" duration="14217000" />
+    </task>
+    <task id="LOCAL-00001" summary="upd">
+      <created>1691667304890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691667304890</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upd">
+      <created>1691667571742</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691667571742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="upd">
+      <created>1692339465248</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692339465248</updated>
+    </task>
+    <task id="LOCAL-00004" summary="upd">
+      <created>1692339485659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692339485659</updated>
+    </task>
+    <task id="LOCAL-00005" summary="upd">
+      <created>1692340183570</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692340183570</updated>
+    </task>
+    <task id="LOCAL-00006" summary="upd">
+      <created>1692343905011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692343905011</updated>
+    </task>
+    <task id="LOCAL-00007" summary="upd">
+      <created>1692345957962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692345957962</updated>
+    </task>
+    <task id="LOCAL-00008" summary="upd">
+      <created>1692346921574</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692346921574</updated>
+    </task>
+    <task id="LOCAL-00009" summary="upd">
+      <created>1692349701787</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692349701787</updated>
+    </task>
+    <task id="LOCAL-00010" summary="upd">
+      <created>1692349877008</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692349877008</updated>
+    </task>
+    <task id="LOCAL-00011" summary="upd">
+      <created>1692352799573</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692352799573</updated>
+    </task>
+    <task id="LOCAL-00012" summary="upd">
+      <created>1692354347669</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692354347669</updated>
+    </task>
+    <task id="LOCAL-00013" summary="upd">
+      <created>1692369989384</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1692369989384</updated>
+    </task>
+    <task id="LOCAL-00014" summary="upd">
+      <created>1692371464663</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692371464664</updated>
+    </task>
+    <task id="LOCAL-00015" summary="upd">
+      <created>1692683888254</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1692683888254</updated>
+    </task>
+    <task id="LOCAL-00016" summary="upd">
+      <created>1692687636043</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692687636043</updated>
+    </task>
+    <task id="LOCAL-00017" summary="upd">
+      <created>1692696908608</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692696908608</updated>
+    </task>
+    <task id="LOCAL-00018" summary="upd">
+      <created>1692774154657</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1692774154657</updated>
+    </task>
+    <task id="LOCAL-00019" summary="upd">
+      <created>1692779015884</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1692779015884</updated>
+    </task>
+    <task id="LOCAL-00020" summary="upd">
+      <created>1692782751378</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692782751378</updated>
+    </task>
+    <task id="LOCAL-00021" summary="upd">
+      <created>1692783031054</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1692783031054</updated>
+    </task>
+    <task id="LOCAL-00022" summary="upd">
+      <created>1692784849595</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1692784849596</updated>
+    </task>
+    <task id="LOCAL-00023" summary="upd">
+      <created>1692784975128</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1692784975128</updated>
+    </task>
+    <task id="LOCAL-00024" summary="upd">
+      <created>1692785171969</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1692785171969</updated>
+    </task>
+    <task id="LOCAL-00025" summary="upd">
+      <created>1692785323179</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1692785323179</updated>
+    </task>
+    <task id="LOCAL-00026" summary="upd">
+      <created>1692971671466</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1692971671466</updated>
+    </task>
+    <task id="LOCAL-00027" summary="upd">
+      <created>1693210545764</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1693210545764</updated>
+    </task>
+    <task id="LOCAL-00028" summary="upd">
+      <created>1693565457331</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1693565457331</updated>
+    </task>
+    <task id="LOCAL-00029" summary="upd">
+      <created>1693565626023</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1693565626023</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/index.html</url>
+          <line>2894</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
