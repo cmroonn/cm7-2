@@ -10876,6 +10876,12 @@ form.popup-timer__form {
 .welcome__head__menu__point a {
   color: #fff;
   text-decoration: none;
+  transition: text-shadow .3s;
+
+}
+
+.welcome__head__menu__point:hover a {
+  text-shadow: 0 0 .65px #fff, 0 0 .65px #fff;
 }
 
 .welcome__head__branding-2 {
@@ -11093,7 +11099,7 @@ form.popup-timer__form {
   transition: width 0.5s; /* Время эффекта */
 }
 
-.welcome__head__menu__point a:hover:after {
+.welcome__head__menu__point:hover a:after {
   content: "";
   width: 100%;
   display: block;
@@ -11284,6 +11290,8 @@ form.popup-timer__form {
   .menu-mobile-dropdown {
     display: flex;
     align-items: center;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+    -webkit-tap-highlight-color: transparent;
   }
 
   .menu-mobile-dropdown svg {
